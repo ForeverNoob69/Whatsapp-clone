@@ -28,7 +28,7 @@ SECRET_KEY = 'django-insecure-bm)^uqc1h#zff-nfis)1$vyuxs5oqxhoy7h0vo)oxb0z-6qt&k
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ["https://whatsapp-clone69.herokuapp.com","http://127.0.0.1:8000"]
+ALLOWED_HOSTS = ["whatsapp-clone69.herokuapp.com"]
 
 
 # Application definition
